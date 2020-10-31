@@ -20,8 +20,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"></code>
 <code><img height="20" src="https://img.icons8.com/fluent/48/000000/android-os.png"></code>    
-##### NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
-<br><br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=abhim8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
  
