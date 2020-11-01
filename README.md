@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning OOPS using C++, Android, Java
 - 🤔 I’m looking for help with Hackathons
 - 💬 Ask me about anything [here](https://github.com/abhim8/abhim8/issues) 
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/abhilash-movva-b979791a1) , [GMail](mailto:abhilash.movva@gmail.com) , [Instagram](https://www.instagram.com/abhilash_movva) , [WhatsApp](https://wa.me/919553701413) <br>
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/abhilash-movva-b979791a1) , [Gmail](mailto:abhilash.movva@gmail.com) , [Instagram](https://www.instagram.com/abhilash_movva) , [WhatsApp](https://wa.me/919553701413) <br>
 
 - ⚡ Fun fact: I believe there are only two ways to write error-free programs; only the third one works 😄 
 
