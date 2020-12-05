@@ -20,6 +20,9 @@
 <a href="https://stackoverflow.com/users/13542386/abhilash">
   <img align="left" alt="Abhilash Movva | StackOverFlow" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg" />
 </a>
+<a href="https://dev.to/abhim8">
+  <img align="left" alt="Abhilash Movva | DEV Profile" width="20px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+</a>
 <a href="https://wa.me/919553701413">
   <img align="left" alt="Abhilash Movva | WhatsApp" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384055.svg" />
 </a>
