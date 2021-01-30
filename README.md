@@ -41,6 +41,9 @@
 ### Languages and Tools:
 - C
 - C++
+- Kotlin
+- Python
+- Java
 - JavaScript 
 - HTML5 & CSS3 
 - Android studio & VS Code
