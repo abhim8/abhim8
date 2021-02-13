@@ -1,5 +1,5 @@
 ### Hola, I'm [Abhilash Movva!](https://github.com/abhim8)👋
-### I'm a Web Developer, Android Developer and a Competitive Programmer 👨‍💻
+### I'm a Android Developer | Web Developer, | Toastmaster| Competitive Programmer 👨‍💻
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://abhilashmovva.tech/">
@@ -31,7 +31,7 @@
 <br />
 
 <!--🔭 I’m currently working on , - 👯 I’m looking to collaborate on -->
-- 🌱 I’m currently learning Kotlin, OOPS using C++, Java.
+- 🌱 I’m currently learning Kotlin, Python.
 - 🤔 I’m looking for help/collaboration to participate in Hackathons.
 - 💬 Ask me about anything [here](https://github.com/abhim8/abhim8/issues).
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/abhilash-movva-b979791a1) , [Gmail](mailto:abhilash.movva@gmail.com) <br>
@@ -45,7 +45,6 @@
 - Python
 - Java
 - JavaScript 
-- HTML5 & CSS3 
 - Android studio & VS Code
 - Linux
 <img src="https://github-readme-stats.vercel.app/api?username=abhim8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
