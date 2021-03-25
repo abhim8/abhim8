@@ -35,7 +35,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/saimanoharhm/saimanoharhm/main/coding.webp">
+<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/saimanoharhm/saimanoharhm/main/coding.webp"> -->
 
 <!-- 👯 I’m looking to collaborate on -->
 - 🌱 I’m currently learning **Javascript**.
@@ -53,7 +53,7 @@
 
 <!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=abhim8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> </p> -->
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhim8&" alt="abhim8" /></p>
+<!-- <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhim8&" alt="abhim8" /></p> -->
 <br>
 
 
