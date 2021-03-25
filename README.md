@@ -1,6 +1,6 @@
 ## Hola, I'm [Abhilash Movva!](https://github.com/abhim8)👋
 <p align=left> 
-  <h2>• I mainly Focus on two thoughts:-</h2>
+  <h3>• I mainly Focus on two thoughts:-</h3>
     <h4>1. Urge to learn till the last breath.</h4>
     <h4>2. Many dreams in mind but one step at a time.</h4>
   <h3>So here's me. A CS Undergrad Sophomore and A learning enthusiast who is always eager to take opportunities and Willingness to learn a lot of things.</h3>
