@@ -1,14 +1,15 @@
 ## Hola, I'm [Abhilash Movva!](https://github.com/abhim8)👋
-
-### I mainly Focus on two thoughts:-
-#### 1. Urge to learn till the last breath.
-#### 2. Many dreams in mind but one step at a time.
-#### So here's me. A CS Undergrad Sophomore and A learning enthusiast who is always eager to take opportunities and Willingness to learn a lot of things.
-
-### I'm a Android Developer | Web Developer, | Toastmaster | Competitive Programmer 👨‍💻
+<p align=left> 
+  <h2>• I mainly Focus on two thoughts:-</h2>
+    <h4>1. Urge to learn till the last breath.</h4>
+    <h4>2. Many dreams in mind but one step at a time.</h4>
+  <h3>So here's me. A CS Undergrad Sophomore and A learning enthusiast who is always eager to take opportunities and Willingness to learn a lot of things.</h3>
+</p>
+<br>
+<p align=left> <h3>• I'm a Android Developer | Web Developer, | Toastmaster | Competitive Programmer 👨‍💻 </h3> </p>
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">• Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhilash_movva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abhilash_movva" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhilash-movva-b979791a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhilash movva" height="30" width="40" /></a>
@@ -20,11 +21,11 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">• Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<!--   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Js" width="40" height="40"/> </a>
@@ -44,5 +45,15 @@
 
 - ⚡ Fun fact: I believe there are only two ways to write error-free programs; only the third one works 😄 
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhim8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<br>
+
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhim8&show_icons=true&locale=en&layout=compact" alt="abhim8" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhim8&show_icons=true&locale=en" alt="abhim8" /></p>
+
+<!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=abhim8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> </p> -->
+
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhim8&" alt="abhim8" /></p>
+<br>
+
 
