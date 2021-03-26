@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/abhilash_movva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abhilash_movva" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhilash-movva-b979791a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhilash movva" height="30" width="40" /></a>
-<a href="https://medium.com/@annamsaimanohar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@annamsaimanohar" height="30" width="40" /></a>
+<a href="https://medium.com/@abhilash.movva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@annamsaimanohar" height="30" width="40" /></a>
 <!-- <a href="http://abhilashmovva.tech/"> <img align="center" alt="Abhilash Movva | PortfolioWebsite" width="40" height="30" src="https://www.flaticon.com/svg/static/icons/svg/3108/3108236.svg" /> -->
 </a>
 <a href="https://www.hackerrank.com/197R1A0535" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="197R1A0535" height="30" width="40" /></a>
