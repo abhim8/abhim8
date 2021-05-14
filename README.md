@@ -6,7 +6,8 @@
   <h3>So here's me. A CS Undergrad Sophomore and A learning enthusiast who is always eager to take opportunities and Willingness to learn a lot of things.</h3>
 </p>
 <br>
-<p align=left> <h3>• I'm a Android Developer | Web Developer, | Toastmaster | Competitive Programmer 👨‍💻 </h3> </p>
+<p align=left> <h3>• I'm a Developer, | Toastmaster | Competitive Programmer 👨‍💻 </h3> </p>
+<!-- Android Developer | Web -->
 <br>
 
 <h3 align="left">• Connect with me:</h3>
