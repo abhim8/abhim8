@@ -3,7 +3,7 @@
   <h3>• I mainly Focus on two thoughts:-</h3>
     <h4>1. Urge to learn till the last breath.</h4>
     <h4>2. Many dreams in mind but one step at a time.</h4>
-  <h3>So here's me. A CS Undergrad Sophomore and A learning enthusiast who is always eager to take opportunities and Willingness to learn a lot of things.</h3>
+  <h3>So here's me. A CS Undergrad Junior and A learning enthusiast who is always eager to take opportunities and Willingness to learn a lot of things.</h3>
 </p>
 <br>
 <p align=left> <h3>• I'm a Developer, | Toastmaster | Competitive Programmer 👨‍💻 </h3> </p>
