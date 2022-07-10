@@ -16,7 +16,7 @@ I'm Abhilash Movva, a software developer from India.
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- [abhilashmovva.me](https://abhilashmovva.me)
+- [abhilashmovva.tech](https://abhilashmovva.tech)
 - [@abhilashmovva](https://www.linkedin.com/in/abhilash-movva-b979791a1) on LinkedIn
 - [@abhilashmovva_8](https://www.instagram.com/abhilashmovva_8) on Instagram
 - reach me on **abhilash.movva@gmail.com**
