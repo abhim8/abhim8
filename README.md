@@ -6,13 +6,12 @@
 ### Hey! 👋
 I'm Abhilash Movva, a software developer from India.
 
-- 👥 final year student at [@cmr, hyderabad](https://cmrtc.ac.in)
-- 👥 Core team member at [@codechef cmrtc chapter](https://codechefcmrtc.tech)
+- 👥 SDE @LeadSquared, Bangalore
 
 ## Skills
 - 👨‍💻 Java, C++, C, JavaScript, Kotlin, Python, PHP, HTML/CSS
-- ⚙️ React.js, Node.js, Electron.js
-- ⚙️ Android, Web Full stack development
+- ⚙️ SpringBoot Framework, Node.js, React.js, Electron.js
+- ⚙️ Web Full stack development, familar with Android development
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
