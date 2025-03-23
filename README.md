@@ -34,7 +34,9 @@ I'm Abhilash Movva, a software developer from India.
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhim8&show_icons=true&locale=en" alt="abhim8" /> -->
 ## Stats
-![](https://github-readme-stats.vercel.app/api/top-langs?username=abhim8&show_icons=true&locale=en&layout=compact)  ![](https://github-readme-stats.vercel.app/api?username=abhim8&show_icons=true&locale=en)
+![](https://roadmap.sh/card/wide/67702caa70129741a8c8e989?variant=dark)
+![](https://github-readme-stats.vercel.app/api?username=abhim8&show_icons=true&locale=en)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=abhim8&show_icons=true&locale=en&layout=compact)
 
 <!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=abhim8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> </p> -->
 
