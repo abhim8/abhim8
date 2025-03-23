@@ -17,7 +17,7 @@ I'm Abhilash Movva, a software developer from India.
 ## Contact
 - [abhilashmovva.tech](https://abhilashmovva.tech)
 - [@abhilashmovva](https://www.linkedin.com/in/abhilash-movva-b979791a1) on LinkedIn
-- [@abhilashmovva_8](https://www.instagram.com/abhilashmovva_8) on Instagram
+- [@abhilashmovva](https://www.instagram.com/abhilashmovva) on Instagram
 - reach me on **abhilash.movva@gmail.com**
 
 ## About
