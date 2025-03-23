@@ -21,8 +21,8 @@ I'm Abhilash Movva, a software developer from India.
 - reach me on **abhilash.movva@gmail.com**
 
 ## About
-- 🌱 I’m currently learning **Android**.
-- 💬 Ask me about **C++, Java, and DSA**
+- 🌱 I’m currently learning **AWS**.
+- 💬 Ask me about **Java, **C++, and DSA**
 - ⚡ Fun fact: I believe there are only two ways to write error-free programs; only the third one works 😄 
 <br>
 
