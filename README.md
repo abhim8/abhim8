@@ -32,7 +32,7 @@ I'm **Abhilash Movva**, a software engineer with 2+ years of experience at LeadS
   
 #### Education
 - 🎓 **B.Tech in Computer Science & Engineering** (2023)  
-  [CMR Technical Campus](https://cmrtc.ac.in)
+  [CMRTC, Hyderabad, India](https://cmrtc.ac.in)
 
 #### 🚀 Beyond Code
 - 👨‍💻 Currently exploring **AWS, Distributed Systems, Scalable Architecture**  
