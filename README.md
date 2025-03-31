@@ -10,7 +10,7 @@
 #### 💬 About Me
 I'm **Abhilash Movva**, a software engineer with 2+ years of experience at LeadSquared, having worked on cloud software for CRM and marketing automation platforms.
 
-Seeking back-end roles, preferably in Bangalore / Hyderabad, India. Proficient in Java, Spring Boot, AWS, SQL, C++, JS, Python.
+ Actively exploring backend engineering roles in Bangalore or Hyderabad, India. Proficient in Java, Spring Boot, AWS, SQL, C++, JS, Python.
 
 #### Contact me
 - [Resume]()
@@ -19,16 +19,27 @@ Seeking back-end roles, preferably in Bangalore / Hyderabad, India. Proficient i
 - [Email](mailto:abhilash.movva@gmail.com)
 
 #### Work experience
-- **LeadSquared**: 07/2022 - Present
+- **Software Engineer, LeadSquared**: (Apr 2024 – Present)
+- **Associate Software Engineer, LeadSquared**:(Aug 2023 – Mar 2024)
+- **SDE Intern, LeadSquared** (Jul 2022 – Jul 2023)
 
-## Skills
-- 👨‍💻 Java, C++, C, JavaScript, Kotlin, Python, HTML & CSS 
-- ☁️💻⚙️ AWS, SpringBoot, Node.js, React.js, Electron.js
-- 💽 SQL, NoSQL, Redis
-- ⚙️ Backend Development, Familiar with working on Web Full stack development, and Android development.
+#### Skills
+- 👨‍💻 Languages: Java, C++, C, JavaScript, Kotlin, Python, HTML & CSS 
+- ☁️ Cloud & Frameworks: AWS, Spring Boot, Node.js, React.js, Electron.js
+- 💽 Databases: SQL, NoSQL, Redis, MongoDB, DynamoDB
+- ⚙️ Development: Backend Development, Web Full-Stack, Android Development
+
   
 #### Education
-- **B.Tech in Computer Science and Engineering** (graduated 2023) at [CMR Technical Campus](https://cmrtc.ac.in)
+- 🎓 **B.Tech in Computer Science & Engineering** (2023)  
+  [CMR Technical Campus](https://cmrtc.ac.in)
+
+#### 🚀 Beyond Code
+- 👨‍💻 Currently exploring **AWS, Distributed Systems, Scalable Architecture**  
+- 💬 Ask me about **Java, Spring Boot, DSA, AWS, Backend Development**  
+- 🏍️ Biker & adventure seeker—always up for a road trip!  
+- 🎮 Enjoys hackathons and solving real-world problems.  
+- ⚡ Fun fact: I believe there are only two ways to write error-free programs; only the third one works 😄  
 
 
 <!-- ### Hey! 👋
