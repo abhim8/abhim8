@@ -19,8 +19,8 @@ I'm **Abhilash Movva**, a software engineer with 2+ years of experience at LeadS
 - [Email](mailto:abhilash.movva@gmail.com)
 
 #### Work experience
-- **Software Engineer, LeadSquared**: (Apr 2024 – Present)
-- **Associate Software Engineer, LeadSquared**:(Aug 2023 – Mar 2024)
+- **Software Engineer, LeadSquared** (Apr 2024 – Present)
+- **Associate Software Engineer, LeadSquared** (Aug 2023 – Mar 2024)
 - **SDE Intern, LeadSquared** (Jul 2022 – Jul 2023)
 
 #### Skills
