@@ -8,27 +8,33 @@
 ### Hi there 👋
 
 #### 💬 About Me
-I'm **Abhilash Movva**, a software engineer with 2+ years of experience at LeadSquared, having worked on cloud software for CRM and marketing automation platforms.
+I'm **Abhilash Movva**, a Senior Software Engineer with 3+ years of experience, currently working at Serko. previously at LeadSquared where I worked on cloud-based CRM and marketing automation platforms.
 
- Actively exploring backend engineering roles in Bangalore or Hyderabad, India. Proficient in Java, Spring Boot, AWS, SQL, C++, JS, Python.
+My experience includes building scalable backend services using Java and Spring Boot, developing microservices, optimizing performance-critical APIs, and working with AWS-based infrastructure. Recently, I’ve also been working on applied AI workflows, including RAG pipelines and MCP-based service orchestration for conversational interfaces.
+
+Core interests: backend architecture, distributed systems, system design, and reliable production systems.
+
 
 #### Contact me
-- [Resume]()
+- [Resume](./Abhilash_Movva_Resume.pdf)
 - [Website](https://abhim8.github.io/Portfolio)
 - [Linkedin](https://www.linkedin.com/in/abhilashmovva)
 - [Email](mailto:abhilash.movva@gmail.com)
 
 #### Work experience
-- **Senior Software Engineer, LeadSquared** (Apr 2025 – Present)
+- **Software Engineer 3, Serko** (Jul 2025 – Present)
+- **Senior Software Engineer, LeadSquared** (Apr 2025 – Jul 2025)
 - **Software Engineer, LeadSquared** (Apr 2024 – Mar 2025)
 - **Associate Software Engineer, LeadSquared** (Aug 2023 – Mar 2024)
 - **SDE Intern, LeadSquared** (Jul 2022 – Jul 2023)
 
 #### Skills
-- 👨‍💻 Languages: Java, C++, C, JavaScript, Kotlin, Python, HTML & CSS 
-- ☁️ Cloud & Frameworks: AWS, Spring Boot, Node.js, React.js, Electron.js
-- 💽 Databases: SQL, NoSQL, Redis, MongoDB, DynamoDB
-- ⚙️ Development: Backend Development, Web Full-Stack, Android Development
+- 👨‍💻 Languages: Java, JavaScript, Python, C#/.NET, C++, C, Kotlin
+- ⚙️ Backend: Spring Boot, REST APIs, JPA/Hibernate, Node.js, Microservices
+- ☁️ Cloud & DevOps: AWS, Azure, Docker, CI/CD
+- 🗄️ Databases: MySQL, PostgreSQL, Redis, DynamoDB, MongoDB
+- 🧠 Applied AI: RAG, LLM integrations, MCP gateway & service orchestration
+- 🧩 Systems: Distributed systems, caching strategies, API design, performance optimization
 
   
 #### Education
@@ -36,11 +42,12 @@ I'm **Abhilash Movva**, a software engineer with 2+ years of experience at LeadS
   [CMRTC, Hyderabad, India](https://cmrtc.ac.in)
 
 #### 🚀 Beyond Code
-- 👨‍💻 Currently exploring **AWS, Distributed Systems, Scalable Architecture**  
-- 💬 Ask me about **Java, Spring Boot, DSA, AWS, Backend Development**  
+- 💬 Ask me about Java backend development, system design, microservices, and performance optimization
+- 🧠 Interested in distributed systems and reliable large-scale software
 - 🏍️ Biker & adventure seeker—always up for a road trip!  
-- 🎮 Enjoys hackathons and solving real-world problems.  
-- ⚡ Fun fact: I believe there are only two ways to write error-free programs; only the third one works 😄  
+- 🎮 Enjoys hackathons and solving real-world problems.
+- ⚡ Fun fact: I believe there are only two ways to write error-free programs; only the third one works 😄
+
 
 
 <!-- ### Hey! 👋
