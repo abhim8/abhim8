@@ -44,7 +44,7 @@ Core interests: backend architecture, distributed systems, system design, and re
 #### 🚀 Beyond Code
 - 💬 Ask me about Java backend development, system design, microservices, and performance optimization
 - 🧠 Interested in distributed systems and reliable large-scale software
-- 🏍️ Biker & adventure seeker—always up for a road trip!  
+- 🏍️ Biker & adventure seeker - always up for a road trip!  
 - 🎮 Enjoys hackathons and solving real-world problems.
 - ⚡ Fun fact: I believe there are only two ways to write error-free programs; only the third one works 😄
 
