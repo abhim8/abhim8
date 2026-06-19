@@ -5,48 +5,80 @@
 </p> 
 -->
 
-### Hi there 👋
+# Hi there 👋, I'm Abhilash Movva
 
-#### 💬 About Me
-I'm **Abhilash Movva**, a Senior Software Engineer with 3+ years of experience, currently working at Serko. previously at LeadSquared where I worked on cloud-based CRM and marketing automation platforms.
+## 👨‍💻 About Me
+Software Engineer with 4+ years of experience building scalable backend systems,
+distributed services, and cloud-native applications.
 
-My experience includes building scalable backend services using Java and Spring Boot, developing microservices, optimizing performance-critical APIs, and working with AWS-based infrastructure. Recently, I’ve also been working on applied AI workflows, including RAG pipelines and MCP-based service orchestration for conversational interfaces.
+Currently working at Serko building platform services and AI-powered developer
+tools, with hands-on experience in:
 
-Core interests: backend architecture, distributed systems, system design, and reliable production systems.
+- Java & Spring Boot
+- Microservices & Distributed Systems
+- AWS & Azure
+- Event-Driven Architecture
+- RAG & LLM Applications
+- Model Context Protocol (MCP)
 
 
-#### Contact me
+## 🚀 Featured Projects
+- 🤖 AI Orchestration Platform – AI agent orchestration using Spring Boot and MCP
+- 🔔 Distributed Notification Platform – Event-driven notification system with Kafka and Redis
+
+
+## 🔗 Connect
 - [Resume](./Abhilash_Movva_Resume.pdf)
-- [Website](https://abhim8.github.io/Portfolio)
 - [Linkedin](https://www.linkedin.com/in/abhilashmovva)
+- [Portfolio](https://abhim8.github.io/Portfolio)
 - [Email](mailto:abhilash.movva@gmail.com)
 
-#### Work experience
-- **Software Engineer 3, Serko** (Jul 2025 – Present)
+## Experience
+- **Software Engineer 2, Serko** (Jul 2025 – Present)
 - **Senior Software Engineer, LeadSquared** (Apr 2025 – Jul 2025)
 - **Software Engineer, LeadSquared** (Apr 2024 – Mar 2025)
 - **Associate Software Engineer, LeadSquared** (Aug 2023 – Mar 2024)
 - **SDE Intern, LeadSquared** (Jul 2022 – Jul 2023)
 
-#### Skills
-- 👨‍💻 Languages: Java, JavaScript, Python, C#/.NET, C++, C, Kotlin
-- ⚙️ Backend: Spring Boot, REST APIs, JPA/Hibernate, Node.js, Microservices
+## 🛠️ Tech Stack
+- 👨‍💻 Languages: Java, Python, Go, Kotlin, JavaScript, C#, C/C++
+- ⚙️ Backend: Spring Boot, REST APIs, JPA/Hibernate, Node.js, Apache Kafka
 - ☁️ Cloud & DevOps: AWS, Azure, Docker, CI/CD
-- 🗄️ Databases: MySQL, PostgreSQL, Redis, DynamoDB, MongoDB
-- 🧠 Applied AI: RAG, LLM integrations, MCP gateway & service orchestration
-- 🧩 Systems: Distributed systems, caching strategies, API design, performance optimization
-
+- 🗄️ Databases: PostgreSQL, MySQL, Redis, DynamoDB, MongoDB
+- 🧠 AI & LLM: RAG, LLM integrations, Azure OpenAI, Google Gemini, MCP Gateway/Servers/Clients & Service orchestration
+- 🏗️ Architecture: Microservices, Distributed Systems, API design, Event-Driven Systems, Hexagonal Architecture, Caching & Performance Optimization
   
-#### Education
-- 🎓 **B.Tech in Computer Science & Engineering** (2023)  
-  [CMRTC, Hyderabad, India](https://cmrtc.ac.in)
+## Education
+- 🎓 **B.Tech in Computer Science & Engineering** (2023) @ [CMRTC, Hyderabad, India](https://cmrtc.ac.in)
 
-#### 🚀 Beyond Code
-- 💬 Ask me about Java backend development, system design, microservices, and performance optimization
-- 🧠 Interested in distributed systems and reliable large-scale software
-- 🏍️ Biker & adventure seeker - always up for a road trip!  
-- 🎮 Enjoys hackathons and solving real-world problems.
+## 🚀 Beyond Code
+- 💬 Happy to discuss Java, Spring Boot, distributed systems, and backend architecture
+- 🧠 Passionate about scalable and reliable production systems
+- 🏍️ Motorcycle enthusiast & adventure seeker - always up for a road trip!  
+- 🎮 Enjoy hackathons and building practical side projects
 - ⚡ Fun fact: I believe there are only two ways to write error-free programs; only the third one works 😄
+
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhim8&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhim8&theme=dark&utcOffset=5.5" />
+</p>
+
+<!-- <p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhim8&theme=dark" />
+</p> -->
+
+<!-- <p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhim8&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhim8&theme=dark" />
+</p> -->
+
+## 🔥 Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhim8)](https://git.io/streak-stats)
+
+## 📈 Contribution Graph
+<img align="left" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhim8&theme=react-dark&area=true&hide_border=true&bg_color=000000&color=ffffff&line=00ffff&point=ffffff" />
 
 
 
@@ -82,9 +114,9 @@ I'm Abhilash Movva, a software engineer from India.
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhim8&show_icons=true&locale=en&layout=compact" alt="abhim8"/> -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhim8&show_icons=true&locale=en" alt="abhim8" /> -->
-## Stats
+<!-- ## Stats -->
 <!-- ![](https://roadmap.sh/card/wide/67702caa70129741a8c8e989?variant=dark) -->
-![](https://github-readme-stats.vercel.app/api/top-langs?username=abhim8&show_icons=true&locale=en&layout=donut)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs?username=abhim8&show_icons=true&locale=en&layout=donut) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=abhim8&show_icons=true&locale=en) -->
 
 <!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=abhim8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> </p> -->
