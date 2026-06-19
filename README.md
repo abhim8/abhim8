@@ -28,12 +28,12 @@ tools, with hands-on experience in:
 
 
 ## 🔗 Connect
-- [Resume](./Abhilash_Movva_Resume.pdf)
-- [Linkedin](https://www.linkedin.com/in/abhilashmovva)
-- [Portfolio](https://abhim8.github.io/Portfolio)
-- [Email](mailto:abhilash.movva@gmail.com)
+- 📄 [Resume](./Abhilash_Movva_Resume.pdf)
+- 💼 [Linkedin](https://www.linkedin.com/in/abhilashmovva)
+- 🌐 [Portfolio](https://abhim8.github.io/Portfolio)
+- 📧 [Email](mailto:abhilash.movva@gmail.com)
 
-## Experience
+## 💼 Experience
 - **Software Engineer 2, Serko** (Jul 2025 – Present)
 - **Senior Software Engineer, LeadSquared** (Apr 2025 – Jul 2025)
 - **Software Engineer, LeadSquared** (Apr 2024 – Mar 2025)
