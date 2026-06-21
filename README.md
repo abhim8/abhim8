@@ -28,9 +28,9 @@ tools, with hands-on experience in:
 
 
 ## 🔗 Connect
-- 📄 [Resume](./Abhilash_Movva_Resume.pdf)
+- 📄 [Resume](https://drive.google.com/file/d/1GfdAarF0xn25CvhAsTtUqGhy0F8kxX1w/view?usp=drive_link)
 - 💼 [Linkedin](https://www.linkedin.com/in/abhilashmovva)
-- 🌐 [Portfolio](https://abhim8.github.io/Portfolio)
+- 🌐 [Portfolio](https://github.com/abhim8)
 - 📧 [Email](mailto:abhilash.movva@gmail.com)
 
 ## 💼 Experience
