@@ -65,54 +65,93 @@ tools, with hands-on experience in:
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔔 Notification Platform - Event-Driven Multi-Channel Delivery System</b></summary>
+<summary><b>🌐 API Gateway - Reactive Edge Gateway</b></summary>
 <br/>
 
-A production-grade, event-driven notification platform supporting **email, SMS, push, and webhook** delivery channels, built on a **hexagonal architecture** for clean separation between domain logic and infrastructure.
+A production-inspired reactive API Gateway that centralizes authentication, rate limiting, resilience, observability, and request routing for distributed microservices.
 
 | Aspect | Details |
 |---|---|
-| **Stack** | Java 23, Spring Boot, Apache Kafka, Redis, PostgreSQL, Docker Compose |
-| **Scale** | 5-topic Kafka design for multi-channel event routing and delivery orchestration |
-| **Performance** | Asynchronous, non-blocking event consumption with channel-level isolation |
-| **Security** | Domain-isolated hexagonal boundaries; provider credentials externalized |
-| **Impact** | Reusable, provider-agnostic notification core adaptable to any messaging backend |
-| **Repository** | [github.com/abhim8/notification-platform](https://github.com/abhim8/notification-platform) |
+| **Stack** | Java 26, Spring Boot 4, Spring Cloud Gateway, WebFlux, Redis, Resilience4j, OpenTelemetry |
+| **Scale** | Reactive gateway supporting centralized cross-cutting platform concerns |
+| **Performance** | Non-blocking request processing with Redis-backed rate limiting and circuit breakers |
+| **Observability** | Correlation IDs, structured logging, distributed tracing, Micrometer metrics |
+| **Impact** | Production-inspired API Gateway demonstrating scalable platform engineering patterns |
+| **Repository** | [github.com/abhim8/api-gateway](https://github.com/abhim8/api-gateway) |
 
-Designed around ports-and-adapters principles, the platform decouples core notification logic from third-party providers (SendGrid, Twilio, FCM), enabling clean testability and provider interchangeability without touching business logic. Kafka topics are structured to support retries, dead-letter handling, and channel-specific throughput tuning, with Redis used for idempotency and delivery-state caching.
+The gateway provides a centralized entry point for distributed systems, implementing pluggable authentication delegation, request correlation, resilience patterns, observability, and traffic management while remaining lightweight and fully reactive.
 
 </details>
 
 <details>
-<summary><b>🧠 AI Orchestration Platform - Multi-Agent Planning & Execution Engine</b></summary>
+<summary><b>🔐 Authentication Platform - Identity & Access Service</b></summary>
 <br/>
 
-An AI orchestration platform built with **Spring AI** and **MCP**, capable of generating, validating, and executing multi-step AI-driven execution plans with dependency-aware parallelism.
+A provider-based authentication platform supporting multiple authentication mechanisms through a modular architecture with standardized authentication contracts.
 
 | Aspect | Details |
 |---|---|
-| **Stack** | Java, Spring Boot, Spring AI, Gemini, Model Context Protocol (MCP), Multi-Module Maven |
-| **Scale** | Multi-module architecture isolating planning, tooling, and execution concerns |
-| **Performance** | Parallel execution derived purely from step-level `dependsOn` graph resolution |
-| **Security** | Isolated `planner/` sub-package boundary around all Spring AI integration surfaces |
-| **Impact** | Reusable execution-plan validator with cycle detection & confidence thresholding |
+| **Stack** | Java, Spring Boot 4, Spring Security, PostgreSQL, Redis, JWT |
+| **Architecture** | Provider-based authentication supporting JWT, API Keys, and session authentication |
+| **Security** | Refresh token rotation, audit logging, Redis-backed sessions |
+| **Integration** | Standardized authentication contracts for gateway-side credential validation |
+| **Impact** | Clean separation of authentication and authorization with extensible providers |
+| **Repository** | [github.com/abhim8/auth-platform](https://github.com/abhim8/auth-platform) |
+
+The platform demonstrates enterprise authentication patterns through pluggable providers, centralized identity management, secure session handling, and reusable authentication contracts that integrate seamlessly with gateway architectures.
+
+</details>
+
+<details>
+<summary><b>🔔 Distributed Notification Platform - Event-Driven Messaging</b></summary>
+<br/>
+
+A production-inspired event-driven notification platform supporting email, SMS, push, and webhook delivery through independently deployable microservices.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | Java, Spring Boot 3, Apache Kafka, PostgreSQL, Redis, Hexagonal Architecture |
+| **Architecture** | Event-driven microservices with provider-agnostic notification workflows |
+| **Reliability** | Redis idempotency, retries, Dead Letter Queue (DLQ), ShedLock scheduling |
+| **Scalability** | Independent notification orchestration, template, and delivery services |
+| **Impact** | Reusable notification platform demonstrating resilient distributed messaging |
+| **Repository** | [github.com/abhim8/notification-platform](https://github.com/abhim8/notification-platform) |
+
+The platform leverages Hexagonal Architecture, Kafka-driven asynchronous processing, Redis-backed idempotency, configurable retry policies, and provider abstraction to build a scalable, production-oriented notification ecosystem.
+
+</details>
+
+<details>
+<summary><b>🧠 AI Orchestration Platform - Multi-Agent Planning Engine</b></summary>
+<br/>
+
+A production-inspired AI orchestration platform capable of converting natural language requests into validated execution plans and coordinating intelligent workflows across backend services.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | Java, Spring Boot 4, Spring AI, Google Gemini, Model Context Protocol (MCP) |
+| **Architecture** | Planner, validator, execution engine, tool calling, conversation memory |
+| **Execution** | DAG validation, dependency-aware parallel execution using CompletableFuture |
+| **AI** | Structured outputs, deterministic fallback planning, trace propagation |
+| **Impact** | Demonstrates production-oriented AI orchestration and backend workflow automation |
 | **Repository** | [github.com/abhim8/ai-orchestration-platform](https://github.com/abhim8/ai-orchestration-platform) |
 
-The platform wraps generated plans in a `PlanGenerationResult` envelope around a structured `ExecutionPlan`, with an `ExecutionPlanValidator` performing cycle detection and confidence-based gating before execution. Partial failures are handled gracefully with an inline `executionTrace`, and custom tools (e.g. `ResolveRelativeDateTool`) are exposed to the model via Spring AI's `@Tool` annotation - keeping all LLM-specific logic cleanly isolated from the rest of the system.
+The platform validates AI-generated execution plans before execution, performs dependency-aware scheduling with parallelism, isolates AI-specific logic behind modular components, and demonstrates modern backend engineering practices for production-ready AI systems.
 
 </details>
 
 ---
 
 ## 💼 Experience
-- **Software Engineer 2, Serko** `Jul 2025 — Present`
-- **Senior Software Engineer, LeadSquared** `Apr 2025 – Jul 2025`
-- **Software Engineer, LeadSquared** `Apr 2024 – Mar 2025`
-- **Associate Software Engineer, LeadSquared** `Aug 2023 – Mar 2024`
-- **SDE Intern, LeadSquared** `Jul 2022 – Jul 2023`
+- **Software Engineer 2, Serko** `Jul 2025 - Present`
+- **Senior Software Engineer, LeadSquared** `Apr 2025 - Jul 2025`
+- **Software Engineer, LeadSquared** `Apr 2024 - Mar 2025`
+- **Associate Software Engineer, LeadSquared** `Aug 2023 - Mar 2024`
+- **SDE Intern, LeadSquared** `Jul 2022 - Jul 2023`
 
 ---
   
